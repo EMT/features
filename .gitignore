@@ -1,0 +1,5 @@
+.DS_Store
+app/resources/tmp/*
+.*.sw[op]
+
+last_migration.txt
